@@ -1,1 +1,5152 @@
-[{"ip":"52.144.125.91","openTcpPorts":[80,443,631],"openUdpPorts":[5353],"os":null,"productName":"mDNS","vendorName":"Sangoma US Inc.","deviceName":""},{"ip":"83.198.190.106","openTcpPorts":[22,53,80,111,443,548,631,3128,5000,5001,5357],"openUdpPorts":[123,137,3702],"os":null,"productName":"nginx","vendorName":"Orange S.A.","deviceName":""},{"ip":"139.178.108.119","openTcpPorts":[21,22,80,111,443,515,548,554,631,5000,5001,5357,8000,8889],"openUdpPorts":[137,500,1701,1900,5353],"os":null,"productName":"gSOAP soap","vendorName":"Energie AG Oberoesterreich Telekom GmbH","deviceName":["vpn"]},{"ip":"73.202.127.207","openTcpPorts":[515,631,8000,8001],"openUdpPorts":[],"os":null,"productName":"Apache httpd","vendorName":"Comcast IP Services, L.L.C.","deviceName":""},{"ip":"95.31.226.27","openTcpPorts":[25,53,80,111,143,443,465,515,548,554,587,631,873,993,995,3306,4190,5000,5001,5005,5006,7001,9008],"openUdpPorts":[53,137],"os":null,"productName":"nginx","vendorName":"PJSC Vimpelcom","deviceName":["database"]},{"ip":"73.112.20.109","openTcpPorts":[21,22,23,80,111,443,515,548,631,5000,5001,5357],"openUdpPorts":[123],"os":null,"productName":"nginx","vendorName":"Comcast IP Services, L.L.C.","deviceName":["self-signed"]},{"ip":"151.248.188.8","openTcpPorts":[443,515,631,8000,8001],"openUdpPorts":[],"os":null,"productName":"Apache httpd","vendorName":"WWZ Telekom AG","deviceName":""},{"ip":"96.32.83.57","openTcpPorts":[515,631,8000,8001],"openUdpPorts":[],"os":null,"productName":"Apache httpd","vendorName":"Charter Communications","deviceName":""},{"ip":"8.23.94.155","openTcpPorts":[80,443],"openUdpPorts":[5353],"os":null,"productName":"mDNS","vendorName":"Digium Cloud Services, LLC","deviceName":""},{"ip":"76.90.51.12","openTcpPorts":[631,8001],"openUdpPorts":[],"os":null,"productName":"CUPS (IPP)","vendorName":"Charter Communications Inc","deviceName":""},{"ip":"64.68.146.33","openTcpPorts":[22,443],"openUdpPorts":[5060,5353],"os":null,"productName":"mDNS","vendorName":"Sangoma US Inc.","deviceName":""},{"ip":"121.133.157.118","openTcpPorts":[631],"openUdpPorts":[],"os":null,"productName":"CUPS (IPP)","vendorName":"Korea Telecom","deviceName":""},{"ip":"222.64.154.3","openTcpPorts":[631],"openUdpPorts":[],"os":null,"productName":"CUPS (IPP)","vendorName":"CHINANET shanghai province network","deviceName":""},{"ip":"1.233.139.207","openTcpPorts":[631,8602],"openUdpPorts":[],"os":null,"productName":"CUPS (IPP)","vendorName":"SK Broadband Co Ltd","deviceName":""},{"ip":"8.23.94.117","openTcpPorts":[22,80,443],"openUdpPorts":[5060,5353],"os":null,"productName":"mDNS","vendorName":"Digium Cloud Services, LLC","deviceName":""},{"ip":"8.23.80.213","openTcpPorts":[22,80,443],"openUdpPorts":[5060,5353],"os":null,"productName":"mDNS","vendorName":"Digium Cloud Services, LLC","deviceName":""},{"ip":"99.10.163.165","openTcpPorts":[515,631],"openUdpPorts":[],"os":null,"productName":"CUPS (IPP)","vendorName":"AT&T Corp.","deviceName":""},{"ip":"119.9.87.144","openTcpPorts":[21,22,80,631,5432,9090],"openUdpPorts":[],"os":null,"productName":"Jetty","vendorName":"International Trimmings & Labels PLC IP Space","deviceName":["database"]},{"ip":"8.23.92.46","openTcpPorts":[22,443],"openUdpPorts":[5060,5353],"os":null,"productName":"mDNS","vendorName":"Digium Cloud Services, LLC","deviceName":""},{"ip":"66.255.208.139","openTcpPorts":[],"openUdpPorts":[5353],"os":null,"productName":"mDNS","vendorName":"United Electric Cooperative","deviceName":""},{"ip":"183.53.218.130","openTcpPorts":[],"openUdpPorts":[5353],"os":null,"productName":"mDNS","vendorName":"CHINANET Guangdong province network","deviceName":""}]
+[
+    {
+        "ip": "52.144.125.91",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "83.198.190.106",
+        "openTcpPorts": [
+            22,
+            53,
+            80,
+            111,
+            443,
+            548,
+            631,
+            3128,
+            5000,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Orange S.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "139.178.108.119",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            515,
+            548,
+            554,
+            631,
+            5000,
+            5001,
+            5357,
+            8000,
+            8889
+        ],
+        "openUdpPorts": [
+            137,
+            500,
+            1701,
+            1900,
+            5353
+        ],
+        "os": null,
+        "productName": "gSOAP soap",
+        "vendorName": "Energie AG Oberoesterreich Telekom GmbH",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "73.202.127.207",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Comcast IP Services, L.L.C.",
+        "deviceName": ""
+    },
+    {
+        "ip": "95.31.226.27",
+        "openTcpPorts": [
+            25,
+            53,
+            80,
+            111,
+            143,
+            443,
+            465,
+            515,
+            548,
+            554,
+            587,
+            631,
+            873,
+            993,
+            995,
+            3306,
+            4190,
+            5000,
+            5001,
+            5005,
+            5006,
+            7001,
+            9008
+        ],
+        "openUdpPorts": [
+            53,
+            137
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "PJSC Vimpelcom",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "73.112.20.109",
+        "openTcpPorts": [
+            21,
+            22,
+            23,
+            80,
+            111,
+            443,
+            515,
+            548,
+            631,
+            5000,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Comcast IP Services, L.L.C.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "151.248.188.8",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "WWZ Telekom AG",
+        "deviceName": ""
+    },
+    {
+        "ip": "96.32.83.57",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Charter Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.94.155",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "76.90.51.12",
+        "openTcpPorts": [
+            631,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.146.33",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "121.133.157.118",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "222.64.154.3",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "CHINANET shanghai province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "1.233.139.207",
+        "openTcpPorts": [
+            631,
+            8602
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.94.117",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.80.213",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "99.10.163.165",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "AT&T Corp.",
+        "deviceName": ""
+    },
+    {
+        "ip": "119.9.87.144",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            631,
+            5432,
+            9090
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Jetty",
+        "vendorName": "International Trimmings & Labels PLC IP Space",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "8.23.92.46",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.139",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "183.53.218.130",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": ""
+    },
+  
+    {
+        "ip": "139.159.135.205",
+        "openTcpPorts": [
+            80,
+            631
+        ],
+        "openUdpPorts": [
+            500
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Huawei Public Cloud Service (Huawei Software Technologies Co.,Ltd)",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "66.255.208.145",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "76.118.126.217",
+        "openTcpPorts": [
+            22,
+            80,
+            631,
+            32400
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Comcast Cable Communications, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "81.91.157.163",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            515,
+            548,
+            554,
+            631,
+            3128,
+            5000,
+            5001,
+            5357,
+            8081
+        ],
+        "openUdpPorts": [
+            69,
+            161,
+            500
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Farabord Dadeh Haye Iranian Co.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "8.23.94.218",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.93.50",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "79.44.38.204",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            515,
+            631,
+            7547,
+            9100
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Telecom Italia S.p.A.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "8.23.92.40",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "176.180.172.221",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            3689,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            1900
+        ],
+        "os": "Synology DiskStation Manager (DSM) 7.1.1-42962",
+        "productName": "nginx",
+        "vendorName": "Bouygues Telecom SA",
+        "deviceName": ""
+    },
+    {
+        "ip": "137.26.52.171",
+        "openTcpPorts": [
+            22,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Charter Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "194.181.241.103",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Uslugi Informatyczne Wieslaw Mazur",
+        "deviceName": ""
+    },
+    {
+        "ip": "206.9.67.44",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Inteliquent, inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "114.34.82.55",
+        "openTcpPorts": [
+            80,
+            443,
+            548,
+            631,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            123,
+            137
+        ],
+        "os": "Synology DiskStation Manager (DSM) 6.2.4-25556",
+        "productName": "nginx",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "118.238.232.198",
+        "openTcpPorts": [
+            21,
+            80,
+            111,
+            443,
+            445,
+            631,
+            8888
+        ],
+        "openUdpPorts": [
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Sony Network Communications Inc.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "59.172.164.136",
+        "openTcpPorts": [
+            19,
+            22,
+            515,
+            548,
+            554,
+            631,
+            777,
+            3050,
+            3260,
+            3306,
+            3689,
+            5001,
+            5005,
+            5357,
+            5568,
+            8096,
+            9200,
+            10001
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "CHINANET Hubei province network",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "188.127.128.152",
+        "openTcpPorts": [
+            22,
+            443,
+            515,
+            631,
+            5005,
+            5006,
+            8000,
+            8001,
+            8096
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Vac City KabelTV Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "70.119.230.81",
+        "openTcpPorts": [
+            22,
+            548,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "50.170.65.213",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "130.180.214.139",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            445,
+            548,
+            631,
+            873,
+            5000,
+            5001,
+            5005,
+            5006,
+            5357
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Freebox Pro - pool network",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "210.210.136.117",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            515,
+            631,
+            5000,
+            5001,
+            5357,
+            5800,
+            5900,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [
+            1900,
+            3702
+        ],
+        "os": null,
+        "productName": "VNC",
+        "vendorName": "PT. Cyberindo Aditama",
+        "deviceName": ""
+    },
+    {
+        "ip": "156.110.43.10",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": null,
+        "deviceName": ""
+    },
+    {
+        "ip": "207.207.13.203",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Alliance Shippers Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.87.249",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "73.139.171.10",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Comcast IP Services, L.L.C.",
+        "deviceName": ""
+    },
+ 
+    {
+        "ip": "218.103.188.242",
+        "openTcpPorts": [
+            53,
+            443,
+            631,
+            1723,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Hong Kong Telecommunications (HKT) Limited",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "86.121.245.83",
+        "openTcpPorts": [
+            22,
+            25,
+            80,
+            143,
+            443,
+            465,
+            515,
+            587,
+            631,
+            873,
+            993,
+            995,
+            5000,
+            5357
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            1194,
+            1900,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "RCS & RDS Business",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "169.236.119.83",
+        "openTcpPorts": [
+            80,
+            8080
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "University of California, Merced",
+        "deviceName": [
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "60.177.195.236",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET-ZJ Hangzhou node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.147.143",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "31.121.4.228",
+        "openTcpPorts": [
+            21,
+            25,
+            80,
+            427,
+            445,
+            515,
+            631,
+            8080
+        ],
+        "openUdpPorts": [
+            137,
+            161,
+            3702
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "FTIP004885030 CJ Muscat",
+        "deviceName": ""
+    },
+    {
+        "ip": "175.127.144.141",
+        "openTcpPorts": [
+            548,
+            631,
+            873
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "rsyncd",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "221.160.81.174",
+        "openTcpPorts": [
+            53,
+            515,
+            631,
+            1234,
+            1723,
+            5000,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            53,
+            500,
+            1194,
+            3702
+        ],
+        "os": null,
+        "productName": "PPTP",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "106.104.160.129",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            548,
+            631,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            137,
+            3702,
+            5353
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "New Century InfoComm Tech. Co., Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "218.90.171.109",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            82,
+            515,
+            548,
+            873,
+            1723,
+            5000
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "jiangsu changbo  invest co.ltd",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "64.68.144.241",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "171.212.254.198",
+        "openTcpPorts": [
+            631,
+            5000,
+            5006
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET Sichuan province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.146.137",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.145.234",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "108.202.158.179",
+        "openTcpPorts": [
+            22,
+            23,
+            53,
+            80,
+            443,
+            631,
+            3306
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MySQL",
+        "vendorName": "AT&T Corp.",
+        "deviceName": [
+            "database",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "194.73.17.47",
+        "openTcpPorts": [
+            22,
+            554,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "BT Infrastructure Layer",
+        "deviceName": ""
+    },
+    {
+        "ip": "80.96.166.15",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            631,
+            3689,
+            8888,
+            9091,
+            9800
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            161,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "SC Cosys Computer Systems SRL",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "64.68.145.238",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.95.163",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "14.241.40.51",
+        "openTcpPorts": [
+            21,
+            80,
+            515,
+            548,
+            631,
+            3307,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Vietnam Posts and Telecommunications Group",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "84.73.32.58",
+        "openTcpPorts": [
+            20,
+            21,
+            22,
+            80,
+            111,
+            443,
+            465,
+            515,
+            631,
+            873,
+            995,
+            5000,
+            5001,
+            5357,
+            8443
+        ],
+        "openUdpPorts": [
+            123,
+            3702
+        ],
+        "os": "ASUSWRT",
+        "productName": "ASUS Wireless Router RT-AC87U",
+        "vendorName": "UPC Schweiz GmbH",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "64.68.149.40",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "175.211.78.170",
+        "openTcpPorts": [
+            21,
+            22,
+            53,
+            80,
+            443,
+            515,
+            548,
+            631,
+            873,
+            5000,
+            5001,
+            5357,
+            32400
+        ],
+        "openUdpPorts": [
+            53,
+            123
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "64.68.145.95",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "207.153.14.176",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "US Internet Corp",
+        "deviceName": ""
+    },
+    {
+        "ip": "221.1.111.236",
+        "openTcpPorts": [
+            111,
+            631,
+            5567,
+            8096
+        ],
+        "openUdpPorts": [
+            137
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "China Unicom Shandong province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.93.146",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.81.20",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "27.19.86.17",
+        "openTcpPorts": [
+            111,
+            548,
+            5500,
+            8442
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": "Asuswrt-Merlin",
+        "productName": "ASUS Wireless Router RT-AC5300",
+        "vendorName": "CHINANET Hubei province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "110.17.3.197",
+        "openTcpPorts": [
+            3689,
+            4190,
+            5000,
+            5006,
+            5357,
+            7000,
+            7001,
+            8123,
+            8800,
+            9000,
+            9001,
+            9007
+        ],
+        "openUdpPorts": [
+            123,
+            1194,
+            5353
+        ],
+        "os": "Synology DiskStation Manager (DSM) 7.0.1-42218",
+        "productName": "nginx",
+        "vendorName": "InnerMongoliabaotou21AB80MH01pppoe3090821",
+        "deviceName": [
+            "iot"
+        ]
+    },
+  
+    {
+        "ip": "64.68.151.14",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "92.105.57.72",
+        "openTcpPorts": [
+            21,
+            22,
+            53,
+            80,
+            443,
+            515,
+            548,
+            631,
+            1723,
+            5000,
+            5001,
+            5005,
+            5006,
+            5357
+        ],
+        "openUdpPorts": [
+            53,
+            123,
+            1194,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Bluewin is an LIR and ISP in Switzerland.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "49.79.37.127",
+        "openTcpPorts": [
+            631,
+            5000,
+            5005,
+            5006
+        ],
+        "openUdpPorts": [
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "CHINANET jiangsu province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.147.106",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "50.76.65.213",
+        "openTcpPorts": [
+            22,
+            80,
+            631,
+            9000,
+            10000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Webmin",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "90.127.52.40",
+        "openTcpPorts": [
+            80,
+            111,
+            443,
+            445,
+            631,
+            1234,
+            8090,
+            8091,
+            8094
+        ],
+        "openUdpPorts": [
+            137,
+            500,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Orange S.A.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "94.228.14.75",
+        "openTcpPorts": [
+            22,
+            443,
+            515,
+            631,
+            873,
+            5001,
+            5006,
+            7547,
+            8000
+        ],
+        "openUdpPorts": [
+            137,
+            5353
+        ],
+        "os": "Synology Router Manager (SRM) 1.2.5-8227",
+        "productName": "Apache httpd",
+        "vendorName": "Embou Nuevas Tecnologias",
+        "deviceName": ""
+    },
+    {
+        "ip": "196.25.173.14",
+        "openTcpPorts": [
+            22,
+            443,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "CITEC(PTY)LTD.",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.157",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "68.142.181.46",
+        "openTcpPorts": [
+            80,
+            443,
+            444
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Flexential Colorado Corp.",
+        "deviceName": ""
+    },
+    {
+        "ip": "35.129.33.128",
+        "openTcpPorts": [
+            443,
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Charter Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.147.67",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "86.239.56.59",
+        "openTcpPorts": [
+            631,
+            5001
+        ],
+        "openUdpPorts": [],
+        "os": "Synology DiskStation Manager (DSM) 6.2.4-25556",
+        "productName": "nginx",
+        "vendorName": "Orange S.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "2.11.75.237",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Orange S.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "192.81.200.56",
+        "openTcpPorts": [
+            80,
+            143,
+            443,
+            631,
+            993
+        ],
+        "openUdpPorts": [
+            123,
+            161,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "82.66.103.67",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            389,
+            443,
+            445,
+            554,
+            631,
+            636,
+            5357,
+            5880,
+            7001,
+            8000,
+            8001,
+            8181
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            1900,
+            3702
+        ],
+        "os": null,
+        "productName": "CherryPy httpd",
+        "vendorName": "Proxad / Free SAS",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "213.118.104.226",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [],
+        "os": "Synology DiskStation Manager (DSM) 7.1.1-42962",
+        "productName": "CUPS (IPP)",
+        "vendorName": "Telenet Operaties N.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.93.130",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.145.157",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.146.87",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "61.77.251.90",
+        "openTcpPorts": [
+            80,
+            110,
+            443,
+            515,
+            587,
+            631,
+            993,
+            995,
+            1990,
+            2121,
+            3000,
+            3128,
+            3260,
+            3307,
+            5000,
+            5001,
+            5005,
+            5006,
+            5357,
+            8090
+        ],
+        "openUdpPorts": [
+            123
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "5.196.34.216",
+        "openTcpPorts": [
+            80,
+            631,
+            9000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "OVH SAS",
+        "deviceName": ""
+    },
+
+    {
+        "ip": "64.68.151.86",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "79.112.16.140",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            8080
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "RCS & RDS Residential",
+        "deviceName": ""
+    },
+    {
+        "ip": "198.86.54.161",
+        "openTcpPorts": [
+            21,
+            80,
+            443,
+            445,
+            515,
+            631,
+            8080,
+            8083,
+            9070,
+            9080,
+            9090,
+            9091,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "TASKalfa 3554ci",
+        "vendorName": "MCNC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "74.199.143.14",
+        "openTcpPorts": [
+            8008
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "GTT Communications Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.34.105.230",
+        "openTcpPorts": [
+            21,
+            80,
+            110,
+            143,
+            631,
+            2000
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Aptum Technologies",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.85.223",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            161,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "219.90.176.218",
+        "openTcpPorts": [
+            80,
+            443,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "iiNet Limited",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.94.250",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.150.21",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "182.234.152.131",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            443,
+            445,
+            631,
+            873,
+            4433,
+            8080,
+            8081,
+            8200
+        ],
+        "openUdpPorts": [
+            6881
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Hoshin MultiMedia Center Inc.",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "151.248.145.104",
+        "openTcpPorts": [
+            25,
+            465,
+            515,
+            554,
+            587,
+            631,
+            873,
+            993,
+            5000,
+            5001,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "WWZ Telekom AG",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "94.241.61.160",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "OJSC Rostelecom, Tver branch",
+        "deviceName": ""
+    },
+    {
+        "ip": "35.193.252.188",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Google LLC",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "69.246.195.197",
+        "openTcpPorts": [
+            548,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Comcast Cable Communications, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "81.251.87.8",
+        "openTcpPorts": [
+            80,
+            111,
+            443,
+            515,
+            631,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [],
+        "os": "Synology DiskStation Manager (DSM) 7.1.1-42962",
+        "productName": "CUPS (IPP)",
+        "vendorName": "Orange S.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.151.52",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "24.213.103.51",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "BCI Mississippi Broadband,LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "12.178.159.60",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "TEC OF JACKSON INC-LOUISIANA",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.147.207",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "134.17.5.117",
+        "openTcpPorts": [
+            21,
+            80,
+            81,
+            82,
+            111,
+            443,
+            445,
+            515,
+            548,
+            631,
+            1200,
+            2222,
+            2223,
+            3306,
+            5050
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            1900
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Mobile TeleSystems JLLC",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "218.154.185.159",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.124.72.191",
+        "openTcpPorts": [
+            53,
+            80,
+            443,
+            445,
+            631,
+            5000,
+            5357
+        ],
+        "openUdpPorts": [
+            53,
+            123,
+            137,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Orange S.A.",
+        "deviceName": ""
+    },
+    {
+        "ip": "207.108.182.212",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "IMPACT GUNS",
+        "deviceName": ""
+    },
+    {
+        "ip": "24.137.93.127",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            515,
+            548,
+            631,
+            873,
+            1025,
+            1723,
+            5000,
+            5001,
+            5005,
+            5006,
+            32400
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            1701,
+            5353
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Eastlink HSI",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "64.68.145.12",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "121.188.119.219",
+        "openTcpPorts": [
+            21,
+            631,
+            9000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "31.11.10.186",
+        "openTcpPorts": [
+            80,
+            443,
+            444,
+            515,
+            548,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "ImproWare AG",
+        "deviceName": ""
+    },
+    {
+        "ip": "84.30.201.251",
+        "openTcpPorts": [
+            22,
+            443,
+            515,
+            631,
+            873,
+            5000
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Ziggo Consumers",
+        "deviceName": ""
+    },
+    {
+        "ip": "114.254.34.214",
+        "openTcpPorts": [
+            631,
+            9024
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "China Unicom Beijing province network",
+        "deviceName": ""
+    },
+    {
+        "ip": "141.193.92.187",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "PS Lightwave",
+        "deviceName": ""
+    },
+    {
+        "ip": "174.74.237.170",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Cox Communications Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.95.173",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "125.209.21.124",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "47.186.112.116",
+        "openTcpPorts": [
+            515
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Frontier Communications of America, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "212.187.101.168",
+        "openTcpPorts": [
+            80,
+            3689,
+            5000
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Ziggo Services B.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "112.164.185.13",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "198.86.54.162",
+        "openTcpPorts": [
+            21,
+            80,
+            443,
+            445,
+            515,
+            631,
+            8080,
+            8083,
+            9080,
+            9090,
+            9091,
+            9095,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "TASKalfa 3554ci",
+        "vendorName": "MCNC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "177.188.147.214",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "TELEFÔNICA BRASIL S.A",
+        "deviceName": ""
+    },
+ 
+    {
+        "ip": "23.241.182.222",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.149",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            161,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.164",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.163",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "34.70.32.158",
+        "openTcpPorts": [
+            22,
+            631,
+            10000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Webmin",
+        "vendorName": "Google LLC",
+        "deviceName": [
+            "cloud",
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "45.63.9.30",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Vultr Holdings, LLC",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "190.9.36.247",
+        "openTcpPorts": [
+            22,
+            80,
+            631,
+            8009,
+            8080
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache Tomcat",
+        "vendorName": "Cloud Holding International inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "70.162.139.24",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Cox Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "84.196.211.241",
+        "openTcpPorts": [
+            21,
+            80,
+            443,
+            554,
+            631,
+            3306,
+            3689,
+            5006,
+            5357,
+            7001,
+            8800,
+            8801,
+            9999,
+            32400
+        ],
+        "openUdpPorts": [
+            123,
+            500
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Telenet operaties N.V.",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "194.8.239.149",
+        "openTcpPorts": [
+            445,
+            515,
+            631,
+            32400
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Acerko Telecom S.L.",
+        "deviceName": ""
+    },
+    {
+        "ip": "155.130.3.142",
+        "openTcpPorts": [
+            80,
+            443,
+            444
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Desert Radiologists",
+        "deviceName": ""
+    },
+    {
+        "ip": "94.208.162.164",
+        "openTcpPorts": [
+            443,
+            631,
+            5010,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Ziggo Consumers",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "20.77.91.209",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Microsoft Corporation",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "8.23.81.105",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+  
+  
+  [
+    {
+        "ip": "128.90.165.140",
+        "openTcpPorts": [
+            111,
+            443,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Unus, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "18.9.63.17",
+        "openTcpPorts": [
+            443,
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Massachusetts Institute of Technology",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.144.180",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "192.81.200.49",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "106.51.0.245",
+        "openTcpPorts": [
+            80,
+            111,
+            443,
+            445,
+            548,
+            631,
+            3689,
+            8888,
+            9091,
+            9800
+        ],
+        "openUdpPorts": [
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Atria Convergence Technologies Pvt. Ltd.,",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "59.126.167.198",
+        "openTcpPorts": [
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "79.156.218.159",
+        "openTcpPorts": [
+            25,
+            53,
+            80,
+            443,
+            993
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "TELEFONICA DE ESPANA S.A.U.",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "2001:8d8:992:7000::28:f909",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            443,
+            465,
+            631,
+            993,
+            995,
+            8443,
+            8880
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "1&1 IONOS SE",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "192.81.200.45",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "86.220.158.40",
+        "openTcpPorts": [
+            21,
+            53,
+            80,
+            111,
+            443,
+            445,
+            548,
+            554,
+            631,
+            3260,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Orange S.A.",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "64.68.148.78",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "72.215.39.25",
+        "openTcpPorts": [
+            21,
+            22,
+            53,
+            80,
+            443,
+            445,
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Cox Communications",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "64.68.151.134",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+   
+    
+    
+    {
+        "ip": "77.79.132.158",
+        "openTcpPorts": [
+            80,
+            631,
+            3306,
+            8080
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MySQL",
+        "vendorName": "JSC Ufanet",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.87.198",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "94.69.98.33",
+        "openTcpPorts": [
+            631,
+            6001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Ote SA (Hellenic Telecommunications Organisation)",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.93.165",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.95.43",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "104.153.249.7",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "SAT TELECOMMUNICATIONS LTD",
+        "deviceName": ""
+    },
+    {
+        "ip": "182.32.184.55",
+        "openTcpPorts": [
+            111,
+            631,
+            5001
+        ],
+        "openUdpPorts": [],
+        "os": "Synology DiskStation Manager (DSM) 6.1.7-15284",
+        "productName": "CUPS (IPP)",
+        "vendorName": "CHINANET SHANDONG PROVINCE NETWORK",
+        "deviceName": ""
+    },
+    {
+        "ip": "129.2.126.77",
+        "openTcpPorts": [
+            80,
+            443,
+            548,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "University of Maryland",
+        "deviceName": ""
+    },
+    {
+        "ip": "155.137.145.9",
+        "openTcpPorts": [
+            21,
+            443,
+            444,
+            515,
+            631,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Hong Kong Broadband Network Ltd",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "82.65.76.159",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            631,
+            1723,
+            5001,
+            5357,
+            8080,
+            18632
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            500,
+            3702,
+            5353
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Proxad / Free SAS",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "64.68.151.186",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "80.7.132.203",
+        "openTcpPorts": [
+            515,
+            548,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "BRENTFORD",
+        "deviceName": ""
+    },
+    {
+        "ip": "121.173.13.236",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.80.22",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "92.126.199.66",
+        "openTcpPorts": [
+            25,
+            80,
+            110,
+            443,
+            631,
+            5001,
+            5005,
+            32400
+        ],
+        "openUdpPorts": [
+            6881
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "OJSC Sibirtelecom",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "220.130.202.180",
+        "openTcpPorts": [
+            80,
+            443,
+            445,
+            515,
+            548,
+            631,
+            1723,
+            5001,
+            8080
+        ],
+        "openUdpPorts": [
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "121.164.13.33",
+        "openTcpPorts": [
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "8.23.86.188",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "84.113.11.59",
+        "openTcpPorts": [
+            515,
+            548,
+            631,
+            5005,
+            5006
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Magenta Telekom",
+        "deviceName": ""
+    },
+    {
+        "ip": "85.2.211.97",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Swisscom (Schweiz) AG is an LIR and ISP in Switzerland.",
+        "deviceName": ""
+    },
+    {
+        "ip": "198.86.54.164",
+        "openTcpPorts": [
+            21,
+            80,
+            443,
+            445,
+            515,
+            631,
+            8080,
+            8083,
+            9080,
+            9090,
+            9091,
+            9100
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "TASKalfa 3554ci",
+        "vendorName": "MCNC",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "64.68.150.87",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "50.200.162.118",
+        "openTcpPorts": [
+            25,
+            80,
+            427,
+            445,
+            515,
+            631,
+            2000,
+            8080
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Comcast Cable Communications, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "222.97.226.240",
+        "openTcpPorts": [
+            88,
+            443,
+            631,
+            5000,
+            5005
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    
+  
+    {
+        "ip": "185.216.75.152",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            445,
+            631,
+            1099,
+            2121,
+            5432,
+            8009,
+            8443,
+            9090,
+            9443,
+            9990
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache Tomcat",
+        "vendorName": "Contabo GmbH",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "83.164.62.222",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+        "deviceName": ""
+    },
+    {
+        "ip": "89.182.77.190",
+        "openTcpPorts": [
+            515,
+            631,
+            8089,
+            25001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "htp GmbH",
+        "deviceName": ""
+    },
+    {
+        "ip": "175.116.145.114",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "151.55.181.91",
+        "openTcpPorts": [
+            22,
+            80,
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            5060
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "WIND Telecomunicazioni S.p.A",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.65.185.173",
+        "openTcpPorts": [
+            443,
+            444,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Proxad / Free SAS",
+        "deviceName": ""
+    },
+    {
+        "ip": "71.206.191.40",
+        "openTcpPorts": [
+            515,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Comcast Cable Communications, IP Services",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.87.10",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.149.150",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "119.148.45.145",
+        "openTcpPorts": [
+            2000
+        ],
+        "openUdpPorts": [
+            161
+        ],
+        "os": null,
+        "productName": "MikroTik bandwidth-test server",
+        "vendorName": "Agni Systems Limited,",
+        "deviceName": ""
+    },
+    {
+        "ip": "68.4.138.88",
+        "openTcpPorts": [
+            515
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Cox Communications Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "145.14.123.154",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Stockholms Stadsnat AB",
+        "deviceName": ""
+    },
+    {
+        "ip": "84.30.166.33",
+        "openTcpPorts": [
+            80,
+            443,
+            631,
+            5000,
+            5357
+        ],
+        "openUdpPorts": [
+            3702,
+            5353
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Ziggo Consumers",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.92.230",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            161,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "187.154.231.225",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Uninet S.A. de C.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.145.140",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.213.195.42",
+        "openTcpPorts": [
+            53,
+            80,
+            443,
+            445,
+            548,
+            554,
+            631,
+            3260,
+            5000,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            53,
+            123,
+            137,
+            1194,
+            6881
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "XTRA TELECOM S.A.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "207.188.150.106",
+        "openTcpPorts": [
+            53,
+            80,
+            445,
+            3307,
+            4190,
+            5077,
+            5099
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            1900,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "XTRA TELECOM S.A.",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "146.168.175.74",
+        "openTcpPorts": [
+            80,
+            443,
+            631,
+            1723
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "PPTP",
+        "vendorName": "Breezeline",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "73.107.88.173",
+        "openTcpPorts": [
+            53,
+            443,
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Comcast IP Services, L.L.C.",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.255.208.148",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "129.21.198.84",
+        "openTcpPorts": [
+            3389,
+            5985,
+            9151,
+            9191
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "WinRM",
+        "vendorName": "Rochester Institute of Technology",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "217.102.161.12",
+        "openTcpPorts": [
+            443,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": "Synology Router Manager (SRM) 1.3.1-9346",
+        "productName": "Apache httpd",
+        "vendorName": "Ziggo Consumers",
+        "deviceName": ""
+    },
+  
+    {
+        "ip": "116.126.225.228",
+        "openTcpPorts": [
+            21,
+            631,
+            8000,
+            8200,
+            9000
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "202.185.202.77",
+        "openTcpPorts": [
+            443,
+            631,
+            5900,
+            33060
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MariaDB",
+        "vendorName": "TT DOTCOM SDN BHD",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "69.59.113.187",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "NORTHLAND CABLE TELEVISION INC.",
+        "deviceName": ""
+    },
+    {
+        "ip": "192.81.200.46",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "United Electric Cooperative",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.145.132",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "14.42.98.139",
+        "openTcpPorts": [
+            21,
+            22,
+            53,
+            80,
+            111,
+            443,
+            515,
+            548,
+            631,
+            873,
+            5001,
+            5005,
+            5006,
+            5357
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.95.42",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.86.75",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "219.76.181.63",
+        "openTcpPorts": [
+            21,
+            80,
+            443,
+            445,
+            515,
+            548,
+            631,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            123,
+            137,
+            500,
+            1701,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Hong Kong Telecommunications (HKT) Limited Mass Internet",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "115.223.95.205",
+        "openTcpPorts": [
+            3260,
+            5000
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET-ZJ Wenzhou node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "151.48.148.134",
+        "openTcpPorts": [
+            21,
+            22,
+            111,
+            443,
+            445,
+            631,
+            5001,
+            8123
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Home Assistant",
+        "vendorName": "WIND Telecomunicazioni S.p.A",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "125.122.86.238",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET-ZJ Hangzhou node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "186.148.247.102",
+        "openTcpPorts": [
+            631,
+            2222,
+            3389,
+            8022,
+            10443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache Tomcat",
+        "vendorName": null,
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    
+ 
+    {
+        "ip": "178.191.204.10",
+        "openTcpPorts": [
+            80,
+            111,
+            443,
+            548,
+            554,
+            631,
+            5001,
+            5006
+        ],
+        "openUdpPorts": [
+            3702
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "A1 Telekom Austria AG",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.144.41",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "114.30.184.2",
+        "openTcpPorts": [
+            515,
+            548,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            3702
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "LG HelloVision Corp.",
+        "deviceName": ""
+    },
+    {
+        "ip": "87.67.189.150",
+        "openTcpPorts": [
+            80,
+            443,
+            548,
+            554,
+            631,
+            5000,
+            5001,
+            5357,
+            8000,
+            8001,
+            8123
+        ],
+        "openUdpPorts": [
+            123,
+            3702
+        ],
+        "os": null,
+        "productName": "Home Assistant",
+        "vendorName": "Proximus NV",
+        "deviceName": [
+            "iot"
+        ]
+    },
+    {
+        "ip": "8.23.86.233",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "213.91.171.94",
+        "openTcpPorts": [
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Vivacom Bulgaria EAD",
+        "deviceName": ""
+    },
+    {
+        "ip": "24.187.254.181",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Cablevision Systems Corp.",
+        "deviceName": ""
+    },
+    {
+        "ip": "52.42.240.87",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "",
+        "vendorName": "Amazon Technologies Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "69.238.217.85",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Private Customer - AT&T Internet Services",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.81.29",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "190.186.40.66",
+        "openTcpPorts": [
+            80,
+            443,
+            444,
+            631,
+            3306
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "SEGURO INTEGRAL DE SALUD SINEC",
+        "deviceName": [
+            "database",
+            "eol-product"
+        ]
+    },
+    {
+        "ip": "221.140.189.3",
+        "openTcpPorts": [
+            80,
+            111,
+            443,
+            548,
+            554,
+            631,
+            5001,
+            5005,
+            5006,
+            5357,
+            5900,
+            8443,
+            9091,
+            32400
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "18.9.63.19",
+        "openTcpPorts": [
+            443,
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Massachusetts Institute of Technology",
+        "deviceName": ""
+    },
+    {
+        "ip": "80.68.230.30",
+        "openTcpPorts": [
+            53,
+            80,
+            443,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Internet Union Spolka Akcyjna",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.94.246",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.220.213.210",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "SOCRATES",
+        "deviceName": ""
+    },
+    {
+        "ip": "49.73.173.148",
+        "openTcpPorts": [
+            21
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "CHINANET jiangsu province network",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "93.203.184.202",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Deutsche Telekom AG",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.85.174",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            161,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "1.235.59.172",
+        "openTcpPorts": [
+            53,
+            80,
+            443,
+            515,
+            548,
+            631,
+            5001,
+            5006,
+            5357
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "SK Broadband Co Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "188.60.31.59",
+        "openTcpPorts": [
+            53,
+            80,
+            443,
+            445,
+            515,
+            631,
+            1723,
+            3307,
+            5000,
+            5001,
+            5005
+        ],
+        "openUdpPorts": [
+            53,
+            137,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Bluewin is an LIR and ISP in Switzerland.",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "14.252.71.250",
+        "openTcpPorts": [
+            445,
+            515,
+            631,
+            5000,
+            5001
+        ],
+        "openUdpPorts": [
+            137
+        ],
+        "os": null,
+        "productName": "nginx",
+        "vendorName": "Vietnam Posts and Telecommunications Group",
+        "deviceName": ""
+    },
+    {
+        "ip": "85.191.135.142",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Norlys Fibernet A/S",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.80.215",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "150.254.84.176",
+        "openTcpPorts": [
+            22,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Address space for Adam Mickiewicz Univercity",
+        "deviceName": ""
+    },
+   
+    {
+        "ip": "54.209.154.210",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Amazon.com, Inc.",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "31.12.2.42",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            445,
+            515,
+            631,
+            873,
+            1723,
+            2222,
+            5000,
+            5001,
+            5005,
+            5006
+        ],
+        "openUdpPorts": [
+            69,
+            123,
+            137,
+            500,
+            1194,
+            1701,
+            1900,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Wien Energie GmbH",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "116.30.248.209",
+        "openTcpPorts": [
+            22,
+            53,
+            631,
+            3000,
+            5800,
+            8001,
+            9001,
+            9443
+        ],
+        "openUdpPorts": [
+            123,
+            500
+        ],
+        "os": null,
+        "productName": "Portainer",
+        "vendorName": "CHINANET Guangdong province network",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "219.79.231.76",
+        "openTcpPorts": [
+            80,
+            631,
+            8866
+        ],
+        "openUdpPorts": [],
+        "os": "Synology DiskStation Manager (DSM) 6.2.4-25556",
+        "productName": "nginx",
+        "vendorName": "Hong Kong Telecommunications (HKT) Limited Mass Internet",
+        "deviceName": ""
+    },
+    {
+        "ip": "66.211.214.224",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Velocity Network, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "97.91.68.141",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            5005,
+            5006,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": "Synology Router Manager (SRM) 1.2.5-8227",
+        "productName": "Apache httpd",
+        "vendorName": "Charter Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "67.214.116.78",
+        "openTcpPorts": [
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            123,
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Epic Technology Solutions LLC.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.95.32",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "92.206.124.132",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Broadband Customer Network",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.92.41",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "84.167.53.26",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Deutsche Telekom AG",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.149.125",
+        "openTcpPorts": [
+            22,
+            80,
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "87.208.67.72",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "T-mobile Netherlands B.V.",
+        "deviceName": ""
+    },
+    {
+        "ip": "14.177.234.87",
+        "openTcpPorts": [
+            21,
+            22,
+            53,
+            80,
+            445,
+            548,
+            631,
+            1723,
+            5000,
+            5001,
+            5005,
+            5006
+        ],
+        "openUdpPorts": [
+            53,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Vietnam Posts and Telecommunications Group",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+   
+    {
+        "ip": "172.98.192.189",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "SYSTM LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "206.144.209.68",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Inteliquent, inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "203.86.193.47",
+        "openTcpPorts": [
+            22,
+            111,
+            443,
+            515,
+            548,
+            631,
+            1723,
+            5000,
+            5001,
+            5357
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Tasman Solutions Ltd",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "151.45.188.209",
+        "openTcpPorts": [
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            5060
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "WIND Telecomunicazioni S.p.A",
+        "deviceName": [
+            "self-signed"
+        ]
+    },
+    {
+        "ip": "213.14.165.254",
+        "openTcpPorts": [
+            443,
+            631
+        ],
+        "openUdpPorts": [
+            1194
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Superonline Iletisim Hizmetleri A.S.",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "34.134.138.251",
+        "openTcpPorts": [
+            22,
+            80,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Google LLC",
+        "deviceName": [
+            "cloud"
+        ]
+    },
+    {
+        "ip": "140.112.104.47",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Ministry of Education Computer Center",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.80.190",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "62.43.209.163",
+        "openTcpPorts": [
+            22,
+            631,
+            800,
+            5900,
+            9091,
+            32400
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "ONO",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.146.156",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "172.98.192.153",
+        "openTcpPorts": [
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "SYSTM LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "189.128.76.236",
+        "openTcpPorts": [
+            515,
+            631,
+            1723,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "Gestión de direccionamiento UniNet",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "194.193.41.51",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "TPG Internet Pty Ltd",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.144.210",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "87.206.95.14",
+        "openTcpPorts": [
+            548
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "UPC Polska Sp. z o.o.",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.66.29.240",
+        "openTcpPorts": [
+            53,
+            80,
+            111,
+            443,
+            445,
+            515,
+            548,
+            631,
+            3001,
+            8000,
+            32400,
+            60001
+        ],
+        "openUdpPorts": [
+            137,
+            18392,
+            24951,
+            51130
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Proxad / Free SAS",
+        "deviceName": ""
+    },
+    {
+        "ip": "102.50.254.164",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            443,
+            445,
+            631,
+            3306
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "MySQL",
+        "vendorName": "4G mobile PS Rabat",
+        "deviceName": [
+            "database"
+        ]
+    },
+    {
+        "ip": "121.145.78.222",
+        "openTcpPorts": [
+            21,
+            53,
+            80,
+            443,
+            515,
+            631,
+            1022,
+            5000,
+            5001,
+            5357,
+            8000,
+            8001,
+            9000
+        ],
+        "openUdpPorts": [
+            53,
+            500
+        ],
+        "os": null,
+        "productName": "lighttpd",
+        "vendorName": "Korea Telecom",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "52.144.125.172",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "76.117.168.66",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            8001
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": "Synology Router Manager (SRM) 1.2.5-8227",
+        "productName": "Apache httpd",
+        "vendorName": "Comcast Cable Communications, Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.150.86",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.86.156",
+        "openTcpPorts": [
+            22,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "82.218.232.31",
+        "openTcpPorts": [
+            443,
+            515,
+            631,
+            5000
+        ],
+        "openUdpPorts": [
+            500,
+            1701
+        ],
+        "os": "Synology DiskStation Manager (DSM) 6.2.4-25556",
+        "productName": "nginx",
+        "vendorName": "kabelplus GmbH",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "125.113.191.19",
+        "openTcpPorts": [
+            23,
+            631
+        ],
+        "openUdpPorts": [
+            53
+        ],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "CHINANET-ZJ Jinhua node network",
+        "deviceName": ""
+    },
+    {
+        "ip": "195.134.67.168",
+        "openTcpPorts": [
+            22,
+            631,
+            3389
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Remote Desktop Protocol",
+        "vendorName": "Panepistimioupolis, Ilisia",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.68.144.109",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Sangoma US Inc.",
+        "deviceName": ""
+    },
+    {
+        "ip": "112.186.61.217",
+        "openTcpPorts": [
+            21,
+            80,
+            631,
+            2121,
+            7547,
+            8200
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Korea Telecom",
+        "deviceName": ""
+    },
+    {
+        "ip": "190.225.197.167",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Apolo -Gold-Telecom-Per",
+        "deviceName": ""
+    },
+    {
+        "ip": "70.121.102.83",
+        "openTcpPorts": [
+            515,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Charter Communications Inc",
+        "deviceName": ""
+    },
+    {
+        "ip": "36.234.187.117",
+        "openTcpPorts": [
+            53,
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Chunghwa Telecom Co.,Ltd.",
+        "deviceName": ""
+    },
+    {
+        "ip": "209.6.11.101",
+        "openTcpPorts": [
+            515,
+            631,
+            8000,
+            8001
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "Apache httpd",
+        "vendorName": "RCN",
+        "deviceName": ""
+    },
+    {
+        "ip": "12.50.43.232",
+        "openTcpPorts": [
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "MARINA LANDSCAPE INC",
+        "deviceName": ""
+    },
+    {
+        "ip": "64.139.136.238",
+        "openTcpPorts": [],
+        "openUdpPorts": [
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "TRACI Network Solutions",
+        "deviceName": ""
+    },
+    {
+        "ip": "72.69.215.167",
+        "openTcpPorts": [
+            80,
+            143,
+            443,
+            993
+        ],
+        "openUdpPorts": [
+            123,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Verizon Business",
+        "deviceName": [
+            "starttls"
+        ]
+    },
+    {
+        "ip": "24.159.78.120",
+        "openTcpPorts": [
+            81,
+            82,
+            83,
+            631,
+            7547
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Charter Communications",
+        "deviceName": ""
+    },
+    {
+        "ip": "89.83.236.116",
+        "openTcpPorts": [
+            631
+        ],
+        "openUdpPorts": [],
+        "os": null,
+        "productName": "CUPS (IPP)",
+        "vendorName": "Bouygues Telecom SA",
+        "deviceName": ""
+    },
+    {
+        "ip": "8.23.81.211",
+        "openTcpPorts": [
+            22,
+            80,
+            443
+        ],
+        "openUdpPorts": [
+            5060,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Digium Cloud Services, LLC",
+        "deviceName": ""
+    },
+    {
+        "ip": "31.12.2.42",
+        "openTcpPorts": [
+            21,
+            22,
+            80,
+            111,
+            443,
+            445,
+            515,
+            631,
+            873,
+            1723,
+            2222,
+            5000,
+            5001,
+            5005,
+            5006
+        ],
+        "openUdpPorts": [
+            69,
+            123,
+            137,
+            500,
+            1194,
+            1701,
+            1900,
+            5353
+        ],
+        "os": null,
+        "productName": "mDNS",
+        "vendorName": "Wien Energie GmbH",
+        "deviceName": [
+            "vpn"
+        ]
+    },
+    {
+        "ip": "90.205.140.129",
+        "openTcpPorts": [
+            80,
+            443,
+            515,
+            631,
+            5000,
+            5001,
+            32400
+        ],
+        "openUdpPorts": [
+            137
+        ],
+        "os": null,
+        "productName": "Plex",
+        "vendorName": "Sky UK Limited",
+        "deviceName": ""
+    }
+]
